@@ -1,10 +1,7 @@
-streamlit
-numpy
-pandas
-matplotlib
-scikit-learn
-Pillow
-opencv-python
-tensorflow
-torch
-torchvision
+streamlit==1.15.0
+Pillow==9.0.0
+google-generativeai==0.3.0
+gtts==2.2.3
+openai==0.27.0  # for potential OpenAI integration (if used)
+requests==2.28.2  # For API requests (if needed)
+python-dotenv==0.21.0  # For handling environment variables securely
