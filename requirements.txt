@@ -644,4 +644,7 @@ zopfli==0.2.3.post1
 zstandard==0.23.0
 streamlit
 google-generativeai
+opencv-python
+Pillow
+
 
