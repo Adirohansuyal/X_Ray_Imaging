@@ -92,7 +92,7 @@ st.sidebar.markdown("""
 """)
 
 # ---- Configure Gemini AI ----
-genai.configure(api_key='AIzaSyDphqA2q_ae9YAHiElrPX96ULfLFtvbfpo')
+genai.configure(api_key='AIzaSyDhO8U7Pdod8g-WGuN_VM1JFyl06cUcn2I')
 model = genai.GenerativeModel(
     model_name=MODEL_NAME,
     safety_settings=SAFETY_SETTINGS,
